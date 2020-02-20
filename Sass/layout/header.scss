@@ -1,0 +1,19 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  height: 50px;
+}
+
+.headerLogo {
+  height: 40px;
+  width: auto;
+}
+
+.headerNav {
+  display: inline-block;
+
+  button {
+    border: 1px solid green;
+    font-size: 18px;
+  }
+}
